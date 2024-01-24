@@ -14,7 +14,7 @@ body {
 .sidebar_navigation {
     background-color: #121212;
     border-radius: 8px;
-    padding: 16px 0 0 16px;
+    /* padding: 16px 0 0 16px; */
 }
 
 .logo {
@@ -87,4 +87,52 @@ body {
 
 .library_content .fa-plus {
     margin: 24px 10px;
+}
+
+.section-playlist {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: #242424;
+    color: #b3b3b3;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 8px 0px;
+    padding: 16px 20px;
+}
+
+.section-playlist_content {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-playlist_content .text {
+    color: #fff;
+    padding-bottom: 14px;
+    font-family: "DM Sans", sans-serif;
+}
+
+.section-playlist_content .title {
+    font-weight: 700;
+}
+
+.section-playlist_content .subtitle {
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.section-playlist_button {
+    background-color: #fff;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: 0px;
+    padding: 10px;
+    width: 120px;
+    margin-top: 12px;
+    font-weight: 700;
+    font-family: "DM Sans", sans-serif;
 }
