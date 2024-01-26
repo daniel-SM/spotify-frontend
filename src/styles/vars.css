@@ -1,0 +1,14 @@
+:root {
+    /* FONTS */
+    --font-dm-sans: "DM Sans", sans-serif;
+    
+    /* COLORS */
+    --bgcolor-sidebar: #121212;
+    --bgcolor-playlist: #242424;
+
+    --color-text-low: #b3b3b3;
+    --color-text-high: #fff;
+
+    --color-gradient-left: #af2896;
+    --color-gradient-right: #509bf5;
+}
