@@ -13,13 +13,13 @@ body {
 }
 
 .sidebar_navigation {
-    background-color: var(--bgcolor-sidebar);
+    background-color: var(--bgcolor-low);
     border-radius: 8px;
     /* padding: 16px 0 0 16px; */
 }
 
 .sidebar_navigation .logo {
-    background-color: var(--bgcolor-sidebar);
+    background-color: var(--bgcolor-low);
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
@@ -46,7 +46,7 @@ body {
 }
 
 .library {
-    background-color: var(--bgcolor-sidebar);
+    background-color: var(--bgcolor-low);
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
@@ -93,7 +93,7 @@ body {
     align-items: flex-start;
     justify-content: space-between;
     gap: 20px;
-    background-color: var(--bgcolor-playlist);
+    background-color: var(--bgcolor-high);
     color: var(--color-text-low);
     font-weight: 600;
     font-size: 14px;

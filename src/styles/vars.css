@@ -3,11 +3,14 @@
     --font-dm-sans: "DM Sans", sans-serif;
     
     /* COLORS */
-    --bgcolor-sidebar: #121212;
-    --bgcolor-playlist: #242424;
+    --bgcolor-low: #121212;
+    --bgcolor-high: #242424;
 
     --color-text-low: #b3b3b3;
     --color-text-high: #fff;
+
+    --color-bg-icon: #131313;
+    --color-bg-arrow: rgba(0, 0, 0, 7);
 
     --color-gradient-left: #af2896;
     --color-gradient-right: #509bf5;
