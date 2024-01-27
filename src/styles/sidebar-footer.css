@@ -39,7 +39,7 @@ body {
 }
 
 .sidebar_navigation ul li a {
-    color: var(--color-text-low);
+    color: var(--textcolor-low);
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
@@ -52,7 +52,7 @@ body {
     justify-content: space-between;
     flex-direction: column;
     padding: 4px 8px;
-    color: var(--color-text-low);
+    color: var(--textcolor-low);
     font-weight: 600;
     font-size: 14px;
     margin-top: 10px;
@@ -66,7 +66,7 @@ body {
 .library_button {
     display: flex;
     margin-right: 10px;
-    color: var(--color-text-low);
+    color: var(--textcolor-low);
     background-color: transparent;
     border: none;
     font-size: 14px;
@@ -94,7 +94,7 @@ body {
     justify-content: space-between;
     gap: 20px;
     background-color: var(--bgcolor-high);
-    color: var(--color-text-low);
+    color: var(--textcolor-low);
     font-weight: 600;
     font-size: 14px;
     border-radius: 8px;
@@ -142,7 +142,7 @@ body {
 }
 
 .cookies a {
-    color: var(--color-text-low);
+    color: var(--textcolor-low);
     font-weight: 500;
     font-size: 10px;
     text-decoration: none;
@@ -155,7 +155,7 @@ body {
 .language_button {
     align-items: center;
     background-color: transparent;
-    color: var(--color-text-high);
+    color: var(--textcolor-high);
     border: 1px solid #878787;
     border-radius: 20px;
     font-weight: bold;
@@ -178,7 +178,8 @@ body {
 }
 
 .register-premium .text {
-    color: var(--color-text-high);
+    color: var(--textcolor-high);
+    flex-shrink: 0;
 }
 
 .register-premium .title {

@@ -6,11 +6,11 @@
     --bgcolor-low: #121212;
     --bgcolor-high: #242424;
 
-    --color-text-low: #b3b3b3;
-    --color-text-high: #fff;
+    --textcolor-low: #b3b3b3;
+    --textcolor-high: #fff;
 
-    --color-bg-icon: #131313;
-    --color-bg-arrow: rgba(0, 0, 0, 7);
+    --bgcolor-icon: #131313;
+    --bgcolor-arrow: rgba(0, 0, 0, 7);
 
     --color-gradient-left: #af2896;
     --color-gradient-right: #509bf5;
